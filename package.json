@@ -4,7 +4,7 @@
   "description": "A master bot for polybot",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "./node_modules/.bin/gulp test",
   },
   "keywords": [
     "polybot",
@@ -17,5 +17,10 @@
   "dependencies": {
     "request": "^2.76.0",
     "telegram-node-bot": "^4.0.3"
+  },
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-standard": "^8.0.2",
+    "require-dir": "^0.3.1"
   }
 }
