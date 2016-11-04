@@ -4,7 +4,7 @@
   "description": "A master bot for polybot",
   "main": "index.js",
   "scripts": {
-    "test": "./node_modules/.bin/gulp test",
+    "test": "./node_modules/.bin/gulp test"
   },
   "keywords": [
     "polybot",
