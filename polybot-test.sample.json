@@ -18,7 +18,7 @@
     {
       "platform": "telegram",
       "auth": {
-        "token": "214947602:AAGJxTfKjGZQWtJwGDYCKuIT8AvO_FW4CHs"
+        "token": "TELEGRAM_TOKEN"
       }
     }
   ],
