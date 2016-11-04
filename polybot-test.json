@@ -1,0 +1,51 @@
+{
+  "name": "PolyTest",
+  "description": "Poly description",
+  "version": "1.0.0",
+  "engines": [
+    {
+      "platform": "messenger",
+      "auth": {
+        "token": "MESSENGER_TOKEN"
+      }
+    },
+    {
+      "platform": "slack",
+      "auth": {
+        "token": "SLACK_TOKEN"
+      }
+    },
+    {
+      "platform": "telegram",
+      "auth": {
+        "token": "TELEGRAM_TOKEN"
+      }
+    }
+  ],
+  "actions": {
+    "messenger": [
+      {
+        "action": "response",
+        "command": "ping",
+        "response": "pong",
+        "default": "otherwise"
+      }
+    ],
+    "slack": [
+      {
+        "action": "response",
+        "command": "ping",
+        "response": "pong",
+        "default": "otherwise"
+      }
+    ],
+    "telegram": [
+      {
+        "action": "response",
+        "command": "ping",
+        "response": "pong",
+        "default": "otherwise"
+      }
+    ]
+  }
+}
