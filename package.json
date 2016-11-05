@@ -10,7 +10,10 @@
     "polybot",
     "chatbot",
     "messaging",
-    "ai"
+    "ai",
+    "slack",
+    "telegram",
+    "messenger"
   ],
   "author": "Mario Colque <colquemario@gmail.com>",
   "license": "MIT",
