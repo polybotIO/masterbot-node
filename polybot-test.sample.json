@@ -22,7 +22,7 @@
       }
     }
   ],
-  "actions": {
+  "settings": {
     "all": [
       {
         "action": "response",
