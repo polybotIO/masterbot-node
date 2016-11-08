@@ -23,6 +23,14 @@
     }
   ],
   "actions": {
+    "all": [
+      {
+        "action": "response",
+        "command": "ping",
+        "response": "pong",
+        "default": "otherwise"
+      }
+    ],
     "messenger": [
       {
         "action": "response",

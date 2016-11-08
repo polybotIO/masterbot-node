@@ -1,7 +1,7 @@
 'use strict'
 
 const path = require('path')
-const rootPath = path.normalize(__dirname + '/../..')
+const rootPath = path.normalize(path.join(__dirname, '/../..'))
 
 module.exports = {
   root: rootPath,
