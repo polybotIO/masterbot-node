@@ -2,6 +2,9 @@
   "name": "masterbot",
   "version": "1.0.0",
   "description": "A master bot for polybot",
+  "engines": {
+    "node": "6.9.1"
+  },
   "main": "index.js",
   "scripts": {
     "test": "./node_modules/.bin/gulp test"
