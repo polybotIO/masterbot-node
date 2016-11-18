@@ -3,14 +3,24 @@
 [![Build Status](https://travis-ci.org/polybot-io/masterbot-node.svg?branch=master)](https://travis-ci.org/polybot-io/masterbot-node)
 [![JavaScript Style Guide](https://img.shields.io/badge/code%20style-standard-brightgreen.svg)](http://standardjs.com/)
 
-The Masterbot - A configurable chatbot for Telegram, Slack and Messenger via JSON file.
+> A configurable chatbot for Telegram, Slack and Messenger via JSON file.
 
 ## Usage
 
 - [Clone](https://help.github.com/articles/cloning-a-repository/) this repo
 - Run `$ yarn` or `$ npm i`
-- Copy polybot-test.sample.json as polybot-test.json
+- Copy [polybot-test.sample.json](./polybot-test.sample.json) as `polybot-test.json`
 - Run `$ node index.js`
+
+## Deployment
+
+masterbot was made to run with [now](https://github.com/zeit/now) (from first commit). So, you only need to to run:
+
+```bash
+$ now -e NODE_ENV=production` and enjoy.
+```
+
+or you can deploy as a common node app.
 
 ## Contribute
 
