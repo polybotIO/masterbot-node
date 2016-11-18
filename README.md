@@ -1,4 +1,4 @@
-![](/polybot-io/art/masterbot/repo-banner.png)
+![](polybot-io/art/masterbot/repo-banner.png)
 
 [![Build Status](https://travis-ci.org/polybot-io/masterbot-node.svg?branch=master)](https://travis-ci.org/polybot-io/masterbot-node)
 [![JavaScript Style Guide](https://img.shields.io/badge/code%20style-standard-brightgreen.svg)](http://standardjs.com/)
