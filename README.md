@@ -5,6 +5,8 @@
 
 > A configurable chatbot for Telegram, Slack and Messenger via JSON file.
 
+#### 🚧 Under development. Version 1.0.0 will be released soon. 🤓
+
 ## Usage
 
 - [Clone](https://help.github.com/articles/cloning-a-repository/) this repo
@@ -17,10 +19,10 @@
 masterbot was made to run with [now](https://github.com/zeit/now) (from first commit). So, you only need to to run:
 
 ```bash
-$ now -e NODE_ENV=production` and enjoy.
+$ now -e NODE_ENV=production
 ```
 
-or you can deploy as a common node app.
+_or you can deploy as a common node app._
 
 ## Contribute
 
