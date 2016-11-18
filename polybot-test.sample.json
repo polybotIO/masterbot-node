@@ -23,36 +23,25 @@
     }
   ],
   "settings": {
-    "all": [
-      {
-        "action": "response",
-        "command": "ping",
-        "response": "pong",
-        "default": "otherwise"
-      }
-    ],
     "messenger": [
       {
-        "action": "response",
-        "command": "ping",
-        "response": "pong",
-        "default": "otherwise"
+        "type": "response",
+        "input": "ping",
+        "response": "pong"
       }
     ],
     "slack": [
       {
-        "action": "response",
-        "command": "ping",
-        "response": "pong",
-        "default": "otherwise"
+        "type": "response",
+        "input": "ping",
+        "response": "pong"
       }
     ],
     "telegram": [
       {
-        "action": "response",
-        "command": "ping",
-        "response": "pong",
-        "default": "otherwise"
+        "type": "response",
+        "input": "ping",
+        "response": "pong"
       }
     ]
   }

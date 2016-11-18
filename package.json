@@ -23,7 +23,7 @@
   "dependencies": {
     "botkit": "^0.4.0",
     "request": "^2.76.0",
-    "telegram-node-bot": "^4.0.3"
+    "telebot": "^1.0.6"
   },
   "devDependencies": {
     "gulp": "^3.9.1",
