@@ -12,14 +12,14 @@
 - [Clone](https://help.github.com/articles/cloning-a-repository/) this repo
 - Run `$ yarn` or `$ npm i`
 - Copy [polybot-test.sample.json](./polybot-test.sample.json) as `polybot-test.json`
-- Run `$ node index.js`
+- Run `$ npm start`
 
 ## Deployment
 
 masterbot was made to run with [now](https://github.com/zeit/now) (from first commit). So, you only need to to run:
 
 ```bash
-$ now -e NODE_ENV=production
+$ now
 ```
 
 _or you can deploy as a common node app._
