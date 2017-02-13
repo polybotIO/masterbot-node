@@ -25,21 +25,21 @@
   "settings": {
     "messenger": [
       {
-        "type": "response",
+        "module": "response",
         "input": "ping",
         "response": "pong"
       }
     ],
     "slack": [
       {
-        "type": "response",
+        "module": "response",
         "input": "ping",
         "response": "pong"
       }
     ],
     "telegram": [
       {
-        "type": "response",
+        "module": "response",
         "input": "ping",
         "response": "pong"
       }

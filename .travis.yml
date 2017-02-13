@@ -2,8 +2,8 @@ language: node_js
 node_js:
 - 6
 before_script:
-- npm install -g gulp
-script: gulp test
+- npm install -g xo
+script: npm test
 notifications:
   slack:
     secure: 3v1WOCHXwmZUkB0ghsXkWCESaOcFhVZCap7GAfBMHRxEmQ5A3srJpYu6oBzQQfsJARy9+2CSQFQU+LuPVCTkKlf0iwD2zU2ekKaIzJYcYCBsaiChu9i026B1N/oHewqFJs7BiJ+HkesbKdpUESHZOC99X61NXceI8zYP1cXzRKcQIMSgK4rt8puLNFwHSYxA6cuhjl+gCpkggrg45LfhuN81HDxGHGO9CimOXem0YK1kkk5bFBx3/I4G0Q/sCEQXafyDz9SzpIk39SAMw4NUK9kPPM4LQ4jnmdydpEh0HldrdvjLUtilgIfkbEQ7cWyBqv4mFWMncw5UCjvuq7AHPSnk2jC7wjfPY+l0/Aybx1u6/lnVt+u2Afm1cG2kec4h7A0B1Sfe0vDZupraZ8MIkBBKC80gcz4xGaPu1WXOTsVrGfOgqclWZkwXC0Yy9YPmOT1ZF6SShHl+4Qi/MUTSgfSp/P+wrx/hrQJAw3crMXulj32mokJXnC9pLiIqdkzYvFNF8G1U1CAAH5GzEggZp4J7OFaVa7YRQYk8O83rhRzbf1POx3PQaasMy2byRRCQHoSI5vvHW0Di+11lc8guf/pXCOogLCChUlulopb2OQ8sWWLx8ZSM0G3s+4Ieyr6f4gR5LCqSCIPE047cxsbYIOlyGTDP0q0HjcG+nXLADa8=

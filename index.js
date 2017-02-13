@@ -1,4 +1,3 @@
-'use strict'
+import masterbot from './lib/masterbot'
 
-const masterbot = require('./lib/masterbot')
 masterbot.init()
