@@ -1,7 +1,7 @@
 ![](https://raw.githubusercontent.com/polybot-io/art/master/masterbot/repo-banner.png)
 
 [![Build Status](https://travis-ci.org/polybot-io/masterbot-node.svg?branch=master)](https://travis-ci.org/polybot-io/masterbot-node)
-[![JavaScript Style Guide](https://img.shields.io/badge/code%20style-standard-brightgreen.svg)](http://standardjs.com/)
+[![XO code style](https://img.shields.io/badge/code_style-XO-5ed9c7.svg)](https://github.com/sindresorhus/xo)
 
 > A configurable chatbot for Telegram, Slack and Messenger via JSON file.
 
