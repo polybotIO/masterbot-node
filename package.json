@@ -12,10 +12,7 @@
     "now-build": "gulp",
     "now-start": "node dist"
   },
-  "repository": {
-    "type": "git",
-    "url": "git@github.com:polybotIO/masterbot-node.git"
-  },
+  "repository": "git@github.com:polybotIO/masterbot-node.git",
   "babel": {
     "comments": false,
     "presets": [
@@ -61,7 +58,6 @@
     "gulp-babel": "^6.1.2",
     "gulp-load-plugins": "^1.5.0",
     "gulp-newer": "^1.3.0",
-    "micro": "^7.0.6",
     "request": "^2.79.0",
     "request-promise-native": "^1.0.3",
     "run-sequence": "^1.2.2",
