@@ -1,7 +1,6 @@
 {
   "name": "masterbot",
   "type": "npm",
-  "alias": "api.polybot.io",
   "env": {
     "NODE_ENV": "production"
   },
